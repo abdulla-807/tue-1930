@@ -25,3 +25,19 @@ ul {
   margin: 0 auto;
   padding: 0 15px;
 }
+.nav {
+  background: #322E41;
+  height: 65px;
+}
+.nav__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu {
+  display: flex;
+}
+.menu__link {
+  font-size: 16px;
+  color: white;
+}
