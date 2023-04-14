@@ -69,4 +69,10 @@ ul {
   margin-top: 10px;
   border-radius: 3px;
   text-align: center;
+  transition: 0.5s;
+}
+
+.news__view:hover {
+  background: #000;
+  color: #DFC900;
 }
