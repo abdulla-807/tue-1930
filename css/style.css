@@ -25,6 +25,7 @@ ul {
   margin: 0 auto;
   padding: 0 15px;
 }
+
 .nav {
   background: #322E41;
   height: 65px;
@@ -40,4 +41,19 @@ ul {
 .menu__link {
   font-size: 16px;
   color: white;
+  }
+
+
+.header__title {
+  background: #fff;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.header__desc {
+  background: #fff;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
 }
