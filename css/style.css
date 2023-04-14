@@ -25,3 +25,32 @@ ul {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.title__link {
+  display: flex;
+  border: 1px solid #000;
+  border-radius: 4px;
+  line-height: 18px;
+}
+
+.title__desc {
+  font-weight: 700;
+  font-size: 24px;
+  padding: 10px 9px 8px 9px;
+  display: inline-block;
+}
+
+.title__all {
+  background: #9A98EA;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  padding: 7px 10px;
+  border-radius: 4px;
+  display: inline-block;
+}
